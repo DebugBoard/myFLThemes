@@ -1,4 +1,4 @@
-# My themes for Flow Launcher(When I used it)
+# My themes for Flow Launcher (when I used it).
 
 ## BloodMoon 
 <img src="https://de4uth.org/a.png">
